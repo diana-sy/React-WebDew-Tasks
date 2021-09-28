@@ -1,0 +1,59 @@
+/* .sideSection{
+    display:flex;
+    flex-direction: row;
+    background-color: white; 
+    width: 27.7%; 
+    margin-top: 1%; 
+    margin-right: 3%;
+    border-bottom: 1px solid #e9eaed;
+    padding: 1%; 
+
+    }*/
+    .mainNews{
+        border-bottom: 1px solid #e9eaed;
+        padding-left: 2%;
+        padding-right: 2%;
+        padding-top: 2%;
+        padding-bottom:3%;
+        width : 100%;
+    }
+
+.header{
+    font-size:27px;
+    font-weight: 700;
+    /* padding-right: 0%; */
+    border-bottom: 1.5px  solid black;
+    padding-bottom: 2.4%;
+   
+    /* border-bottom: 1px solid black; */
+}
+
+.sideNumber{
+        /* margin-right: 5%;
+        margin-top: 2%;  */
+        font-family: Sanomat;
+        font-weight: 700;
+        color: rgba(65,150,164);
+        font-size: 28px;
+        padding-top:2.4%;
+        
+       
+    
+}
+
+.topic{
+    display:flex;
+    /* padding-right: 10px; */
+    color:black;
+    font-size: 15px;
+    ;
+}
+
+/* .divider{
+    width: 10px;
+} */
+
+/* .article{
+    margin-right: 5%;
+    
+} */

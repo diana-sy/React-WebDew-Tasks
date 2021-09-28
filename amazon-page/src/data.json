@@ -1,0 +1,162 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "description": [
+          "  Roku Express 4K+ 2021 | Streaming Media Player",
+          " HD/4K/HDR with Smooth Wireless Streaming and",
+          " Roku Voice Remote with TV Controls, Includes Premium HDMI Cable"
+         ],
+        "seller": "by Roku",
+        "rating": "6,149",
+        "price": 38.98,
+        "stars": "4stars.png",
+        "shipping":33.72,
+        "image": "product1.jpeg",
+        "arrives":"Friday, Oct 1 "
+      },
+      {
+        "id": 2,
+        "description": [
+          " Seagate Portable 2TB External Hard Drive Portable HDD – USB 3.0 for PC, Mac, PS4, & Xbox - 1-Year Rescue Service (STGX2000400) "
+         ],
+        "seller": "by Seagate",
+        "rating": "154,389" ,
+        "price": 59.99,
+        "stars": "4stars.png",
+        "shipping":33.58,
+        "image": "product2.jpeg ",
+        "arrives":"Friday, Oct 1 "
+      },
+      {
+        "id": 3,
+        "description": [
+          "Roku Streaming Stick+ | HD/4K/HDR Streaming Device with Long-range Wireless and Roku Voice Remote with TV Controls  "
+         ],
+        "seller": "by Roku",
+        "rating": "96,932",
+        "stars": "4stars.png",
+        "price": 39,
+        "shipping":33.28,
+        "image": "product3.jpeg ",
+        "arrives":"Friday, Oct 1 "
+      },
+      {
+        "id": 4,
+        "description": [
+          " iPhone Charger [Apple MFi Certified] QIRUOZ 5Pack(3/3/6/6/10FT) Compatible iPhone 12Pro Max/12Pro/12/11/Pro/Xs Max/X/8 and More-Silver&White"
+         ],
+        "seller": "by QIRUOZ ",
+        "rating": "11,682",
+        "price": 12.99,
+        "stars": "4stars.png",
+        "shipping": 32.11,
+        "image": "product4.jpeg ",
+        "arrives":"Friday, Oct 1 "
+      },
+      {
+        "id": 5,
+        "description": [
+          " WD 2TB Elements Portable External Hard Drive HDD, USB 3.0, Compatible with PC, Mac, PS4 & Xbox - WDBU6Y0020BBK-WESN"
+         ],
+        "seller": "by Western Digital",
+        "rating": "90,286",
+        "price": 59.99,
+        "stars": "4stars.png",
+        "shipping":32.99,
+        "image": "product5.jpeg ",
+        "arrives":"Friday, Oct 1"
+      },
+      {
+        "id": 6,
+        "description": [
+          " Logitech H390 Wired Headset, Stereo Headphones with Noise-Cancelling Microphone, USB, In-Line Controls, PC/Mac/Laptop - Black "
+         ],
+        "seller": "by Logitech ",
+        "rating": "29,922" ,
+        "price": 45.91,
+        "stars": "4stars.png",
+        "shipping":30.33,
+        "image": "product6.jpeg ",
+        "arrives":"Currently unavailable "
+      },
+      {
+        "id": 7,
+        "description": [
+          " SanDisk 128GB Extreme microSDXC UHS-I Memory Card with Adapter - Up to 160MB/s, C10, U3, V30, 4K, A2, Micro SD - SDSQXA1-128G-GN6MA "
+         ],
+        "seller": "by SanDisk",
+        "rating": "238,272",
+        "price": 21.99,
+        "stars": "5stars.png",
+        "shipping":30.77,
+        "image": "product7.jpeg ",
+        "arrives":"Friday, Oct 1 "
+      },
+      {
+        "id": 8,
+        "description": [
+          " Logitech MK270 Wireless Keyboard and Mouse Combo - Keyboard and Mouse Included, Long Battery Life"
+         ],
+        "seller": "by Logitech",
+        "rating": "52,766",
+        "price": 24.82,
+        "stars": "4stars.png",
+        "shipping":16.85,
+        "image": "product8.jpeg ",
+        "arrives":"in stock soon "
+      },
+      {
+        "id": 9,
+        "description": [
+          " Logitech C920x HD Pro Webcam, Full HD 1080p/30fps Video Calling, Clear Stereo Audio, HD Light Correction, Works with Skype, Zoom, FaceTime, Hangouts, PC/Mac/Laptop/Macbook/Tablet - Black "
+         ],
+        "seller": "by Logitech",
+        "rating": "5,849",
+        "price": 120.15 ,
+        "stars": "4stars.png",
+        "shipping":18.45,
+        "image": "product9.jpeg ",
+        "arrives":"Currently unavailable "
+      },
+      {
+        "id": 10,
+        "description": [
+          "Roku Ultra | Streaming Device HD/4K/HDR/Dolby Vision with Dolby Atmos, Bluetooth Streaming, and Roku Voice Remote with Headphone Jack and Personal Shortcuts, includes Premium HDMI Cable  "
+         ],
+        "seller": "by Roku",
+        "rating": "15,087",
+        "price": 69.10,
+        "stars": "4stars.png",
+        "shipping":38.74,
+        "image": "product10.jpeg ",
+        "arrives":"Friday, Oct 1 "
+      },
+      {
+        "id": 11,
+        "description": [
+          "Roku Express | HD Streaming Media Player with High Speed HDMI Cable and Simple Remote  "
+         ],
+        "seller": "by Roku",
+        "rating": "128,551",
+        "price": 29.99,
+        "stars": "4stars.png",
+        "shipping":42.88,
+        "image": "product11.jpeg ",
+        "arrives":"Friday, Oct 1 "
+      },
+      {
+        "id": 12,
+        "description": [
+          "Logitech BRIO Ultra HD Webcam for Video Conferencing, Recording, and Streaming - Black  "
+         ],
+        "seller": "by Logitech ",
+        "rating": "7,743",
+        "price":163.99 ,
+        "stars": "5stars.png",
+        "shipping":39.21,
+        "image": "product12.jpeg ",
+        "arrives":" Friday, Oct 1"
+      }
+    ]
+  }

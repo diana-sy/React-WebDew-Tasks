@@ -1,0 +1,20 @@
+
+.container{
+    background-color: rgba(65,150,164);
+    color: white;
+    padding: 16px;
+    margin-left: 50px;
+    margin-right: 90px;
+    margin-bottom: 2px;
+    justify-content:center;
+}
+
+.container:last-child {
+    background-color: rgba(0,184,224);
+}
+
+
+.header{
+    font-size:18px;
+    font-weight: 700;
+}
