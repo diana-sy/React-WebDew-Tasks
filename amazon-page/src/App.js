@@ -2,15 +2,16 @@ import React from 'react';
 import './App.css';
 
 import ItemsContent from './components/ItemsContent';
-import data from './data.json';
+// import data from './data.json';
 import AdminView from './components/AdminView';
+import axios from 'axios';
 
 class App extends React.Component {
 
   constructor(props) {
     super(props);
     this.state = {
-      items:data.items,
+      items:[],
       productSearchString:"",
       adminModeActive: false,
 
@@ -22,6 +23,18 @@ class App extends React.Component {
       // newItemImage:"",
     }
   }
+
+//API server: 
+  componentDidMount() {
+    console.log("Mounted")
+    axios.get('http://localhost:3000/products')
+    .then(response=>{
+      console.log(response);
+      this.setState({items: response.data.items});
+
+    })
+    .catch(err => console.log(err));
+  }
     
   onSearchFieldChange = (event) => {
     console.log('hfh');
@@ -31,6 +44,18 @@ class App extends React.Component {
   }
 
 addNewItem=(description, seller, price, shipping, arrives)=>{
+
+  axios.post('http://localhost:3000/products', {
+    
+    description: description,
+    seller: seller,
+    price: price,
+    shipping: shipping,
+    arrives: arrives,
+
+  });
+
+
   let newItems= [...this.state.items];
   newItems.push({
     
